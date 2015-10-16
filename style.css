@@ -152,7 +152,7 @@ body ul li.product a.added_to_cart:hover, a:hover, #copyrigh-text a:hover {color
 
 #cart-hover-div a, .sf-menu a {color:#000000;}
 
-p.sub-total-pro .amount, #header-top ul span, a, #copyrigh-text a {color:#deb14c;}
+p.sub-total-pro .amount, #header-top ul span, a, #copyrigh-text a {color:#ABCF37;}
 
 .sf-menu a:hover, .sf-menu a:hover, .sf-menu li a:hover, .sf-menu a:hover, .sf-menu a:visited:hover, .sf-menu li.sfHover a, .sf-menu li.sfHover a:visited	{ color:#8c8c8c; }
 
@@ -2501,7 +2501,7 @@ nav {float:right;}
 	line-height:1;
 	text-decoration: none;
 	zoom: 1; /* IE7 */
-	font-size:14px;
+	font-size:1.1em;
 	margin-left:5px;
 	font-weight:600;
 }
